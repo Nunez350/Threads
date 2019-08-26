@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DeepClone",
+            "request": "launch",
+            "mainClass": "DeepClone"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadRunner",
+            "request": "launch",
+            "mainClass": "com.collaber.threads.ThreadRunner"
+        }
+    ]
+}
